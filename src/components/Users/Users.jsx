@@ -47,14 +47,3 @@ function Users() {
 }
 
 export default Users;
-
-
-function user(){
-   const [isLoading, setIsLoading] = useState(true);
-   const [isError , setIsError] = useState(false);
-   const [user , setuser] = useState(true);
-
-   useEffect(()=>{
-    const getUsers = async () 
-   })
-}
