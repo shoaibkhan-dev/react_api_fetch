@@ -1,0 +1,10 @@
+.card-container {
+  padding: 10px;
+  border: 1px solid blue;
+  cursor: pointer;
+  display: inline-block;
+  margin: 5px 5px;
+  height: 150px;
+}
+
+
